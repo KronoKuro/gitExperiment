@@ -7,3 +7,4 @@ git commit -m 'init commit' -- add commit in master
 git status  -- check changes and commits
 git log -- check history commits
 git diff -- check diff between commits
+tree .git -- threefolder
