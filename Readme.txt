@@ -4,3 +4,4 @@ git config --global user.email "name" -- add user email global in git
 git add Readme.txt -- add file in commit
 git add mainModule.py -- add file in commit
 git commit -m 'init commit' -- add commit in master
+git status  -- check changes and commits
