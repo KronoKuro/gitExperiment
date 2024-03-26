@@ -7,3 +7,5 @@ def some_func_for_diff_in_thefile():
 def another_func(val):
   print($'some {val}')
 
+def once_func():
+  print("rebase test")
