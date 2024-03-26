@@ -22,3 +22,4 @@ git checkout second -- go to branch second
 git merge second -m 'merge second into master -- merge changes
 git rebase second -- rebase from master to second witout merge commit
 git revert a10ecd66fdd13d91b42e1a3b5ae48033eccb9e43 ---cancel commit
+
