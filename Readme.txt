@@ -19,3 +19,4 @@ git branch --show active branch
 git branch -a --show all active branch 
 git branch second -- create branch with name second
 git checkout second -- go to branch second
+git merge second -m 'merge second into master -- merge changes
